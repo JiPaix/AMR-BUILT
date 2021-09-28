@@ -1,13 +1,4 @@
-/node_modules
-/*.log
-/dist
-/dist-zip
-/.vscode
-/.idea
-/test
+*
 
-.DS_Store
-
-/src/mirrors/register_implementations.js
-
-/distfinal
+!.gitignore
+!/dist
